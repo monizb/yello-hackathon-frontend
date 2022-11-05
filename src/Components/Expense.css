@@ -1,0 +1,62 @@
+.expense {
+    padding: 20px;
+    border: 2px solid #5cc4a7;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: #daf1eb;
+}
+
+.payback_button {
+    background-color: #5cc4a7;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.expense_date {
+    margin-bottom: 5px;
+    font-family: Quicksand;
+}
+
+.expense_title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: Quicksand;
+}
+
+p {
+    margin: 0;
+}
+
+.expense_root {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.expense_meta {
+    text-align: right;
+}
+
+.other_user_name {
+    font-family: Quicksand;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.input_upi {
+    padding: 7px;
+    font-family: Quicksand;
+}
+
+.set_profile_header {
+    padding: 20px;
+    border: 2px solid #5cc4a7;
+    display: flex;
+    align-items: center;
+}
